@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'bronco',
+	'hostname' => 'broncoappdb.cjgng396y70o.us-east-2.rds.amazonaws.com',
+	'username' => 't12titans',
+	'password' => 'Afc-South-97!',
+	'database' => 'broncoappdb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
